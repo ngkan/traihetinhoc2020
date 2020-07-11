@@ -61,7 +61,7 @@ int main(){
                     tmp[2] = max(h[0] + g[2],
                                  h[2] + g[3]);
                     // l-r
-                    tmp[3] = max(h[2] + g[3],
+                    tmp[3] = max(h[3] + g[3],
                                  h[1] + g[2]);
                     #undef g
 
