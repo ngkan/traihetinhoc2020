@@ -1,3 +1,5 @@
-https://codeforces.com/gym/286968
-https://codeforces.com/gym/287093
-https://codeforces.com/gym/287159
+https://codeforces.com/contestInvitation/4b1354a50f4d3b0dc734d63845e5ac8596d278c4
+
+https://codeforces.com/contestInvitation/41a1720d1f9540064b41eea645c72d29792db0a4
+
+https://codeforces.com/contestInvitation/e34339bff6d88f9bc4292fcc1923dbd16b15d33b
